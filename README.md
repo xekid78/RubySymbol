@@ -1,0 +1,2 @@
+# RubySymbol
+シンボル
